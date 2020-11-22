@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About Aero Bump
+Aero Bump is an advanced Discord Bumping Bot That will help growing your bot.  It has some unique features that will make the use of the bot easier.
 
-You can use the [editor on GitHub](https://github.com/userdaylightinc/aerobot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Features
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 1-hour cooldown - Allows you to bump your bot 24 times a day
+2. FastSetup™ - Allows you to import bot from major bot list(for a complete working bot list see below)
+3. Scam Proof - Bot Invite link is checked before allowed to be posted.
 
-### Markdown
+## Beta Stage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aero Bump is still in the beta stage, and bugs might still be present. If you had found a bug, please do report it to our support server [here](https://discord.gg/2Tfhn6eNPF).
 
-```markdown
-Syntax highlighted code block
+## Complete List of Supported FastSetup™
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/userdaylightinc/aerobot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Aero Bot List - [Link](https://aerobotlist.com)
+2. top.gg(5 second global cooldown) - [Link](https://top.gg)
